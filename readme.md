@@ -1,4 +1,4 @@
-Clone this repo
-install requests library
-type makemigrations and migrate in cmd to access the database
-and type runserver
+1: Clone this repo
+2: install requests library
+3: type makemigrations and migrate in cmd to access the database
+4: and type runserver
